@@ -7,10 +7,10 @@ Simple-Calculator repository:
 
 ## Features included:
 
-➕ Basic arithmetic operations (add, subtract, multiply, divide)
-🔢 Decimal number support
-🎨 Modern gradient design with smooth animations
-⌨️ Keyboard support (numbers, operators, Enter to calculate, Backspace to delete, Escape to clear)
-❌ Clear (C) and Delete (DEL) buttons
-🛡️ Error handling for invalid expressions
-Open the index.html file in your browser to start using the calculator!
+* ➕ Basic arithmetic operations (add, subtract, multiply, divide)
+* 🔢 Decimal number support
+* 🎨 Modern gradient design with smooth animations
+* ⌨️ Keyboard support (numbers, operators, Enter to calculate, Backspace to delete, Escape to clear)
+* ❌ Clear (C) and Delete (DEL) buttons
+* 🛡️ Error handling for invalid expressions
+Open the `index.html file` in your browser to start using the calculator!
